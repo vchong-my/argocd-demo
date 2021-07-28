@@ -13,5 +13,5 @@ spec:
       valueFiles:
       - values-staging.yaml
     path: helm
-    repoURL: https://github.com/kgamanji/argocd-demo
+    repoURL: https://github.com/vchong-my/argocd-demo
     targetRevision: HEAD
